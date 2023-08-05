@@ -1,0 +1,7 @@
+.imgcoeur:active {
+    background-color: red;
+    outline: none;
+}
+ .imgcoeur{
+    border-radius: 50px;
+ }   
